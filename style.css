@@ -1,0 +1,43 @@
+#my_body
+{
+    background-image: linear-gradient(to right top, #eeff04, #bed925, #e8ff1d, #d8e61a, #8a9400);
+}
+
+#h1
+{
+    color: deeppink;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+#result1
+{
+    width:30%;
+}
+
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+
+img:hover
+{ 
+    border-radius: 140px; 
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #bcec2c;
+    color: deeppink;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+ }
+
+ #textbox
+{
+    width: 300px;
+}
